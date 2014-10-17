@@ -1,0 +1,5 @@
+BeautifulSoup==3.2.1
+eventlet==0.9.16
+eventlet-log==0.0.3
+greenlet==0.3.4
+wsgiref==0.1.2
